@@ -14,6 +14,7 @@ public class Main extends Application {
         primaryStage.setTitle("Вика жопа");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
+        System.out.println("Lera)");
     }
     
     public static void main(String[] args) {
